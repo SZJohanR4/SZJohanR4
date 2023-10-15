@@ -2,15 +2,14 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/SZJohanR4">Johan Sanchez Rojas<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 🏫: I'm Software Engineer and actuly work as a Software Engineer Manager on a software company.
+- 🔭: I start programming on Java but currently only use Python and JavaScript.
+- 🌱: I’m currently learning Neural Networks, Deep Learning, NLP and Data Analysis. 🧠💻🤖
+- 🤔: I think I am an inventor, I like to create new things and if it is with code the better! 😅
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
   
